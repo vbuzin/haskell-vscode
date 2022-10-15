@@ -1,0 +1,9 @@
+# macOS folder metadata
+.DS_Store
+
+# stack artifacts
+/.stack-work/
+stack.yaml.lock
+
+dist
+dist-*
